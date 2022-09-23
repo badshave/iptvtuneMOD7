@@ -1,0 +1,1 @@
+http://tunestream.me:8080/get.php?username=f2xEqtXxaYtb&password=mQMfPEcmz9gb&type=m3u_plus&output=ts
